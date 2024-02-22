@@ -3,9 +3,17 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutorial - Basics",
+  "sidebar.tutorialSidebar.category.tutor": {
+    "message": "Тутор - Basics",
+    "description": "The label for category tutor in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.trackers": {
+    "message": "Контроль трекеров",
     "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.trackers.link.generated-index.description": {
+    "message": "Ознакомьтесь с функциональными возможности системы мониторинга платформы ZakodixOMS.",
+    "description": "Ознакомьтесь с функциональными возможности системы мониторинга платформы ZakodixOMS."
   },
   "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
     "message": "5 minutes to learn the most important Docusaurus concepts.",
@@ -14,5 +22,9 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.tutor.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category tutor in sidebar tutorialSidebar"
   }
 }
