@@ -2,47 +2,72 @@
 sidebar_position: 1
 slug: /
 ---
+# Introduction
 
-# Tutorial Intro
+The platform **ZakodixOMS** is a comprehensive platform for video surveillance and satellite monitoring of vehicles. It includes functionality for object control and tracking, providing detailed information about the object both in real-time mode and historical data for specified periods.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Authorization
 
-## Getting Started
+To log into ZakodixOMS, the user needs to authenticate by filling in the fields `Email` and `Password`.
 
-Get started by **creating a new site**.
+![](./login-en.png)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+After filling in all the information, click the `Login` button.
 
-### What you'll need
+### Registration
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+To register a new user in the system, click the `Sign Up` button and fill in the necessary fields in the opened form.
 
-## Generate a new site
+![](./regModal-en.png)
 
-Generate a new Docusaurus site using the **classic template**.
+- The field `Preferred map` is required to select a provider of geographic maps.
+- When changing the field `Individual` to `Legal entity`, additional fields necessary for filling in will appear.
+- The password must be at least 8 characters long.
 
-The classic template will automatically be added to your project after you run the command:
+### Password Recovery
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+To recover the password, click the `Forgot password?` button. In the appeared window, write your email specified during registration.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+![](./restorePassModal-en.png)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+After that, click the `Send link to email` button.
 
-## Start your site
+You will receive a link to reset your password by email, after clicking on which you will be able to specify a new password to log in.
 
-Run the development server:
+## Platform Interface
 
-```bash
-cd my-website
-npm run start
-```
+The platform interface consists of several visual blocks:
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+![](./interface-en.png)
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- Side navigation panel:
+1. `Monitoring objects` - transition to the list of user's monitoring objects.
+2. `Online cameras` - category of functionality related to video surveillance and camera management.
+3. `Cameras` - transition to the list of user's cameras.
+4. `Storages` - transition to the list of user's storages.
+5. `Schedules` - transition to the list of schedules for user's cameras.
+6. `Reports` - transition to the page for generating reports on cameras.
+7. `Tracker Management` - category of functionality related to object monitoring system and tracker management.
+8. `Trackers` - transition to the list of user's trackers.
+9. `Routes` - transition to the page for forming routes for user's trackers.
+10. `Reports` - transition to the page for generating reports on trackers.
+11. `My account` - category of functionality related to user account management.
+12. `Profile` - transition to the profile editing form for the user.
+13. `Balance` - transition to the list of user's operation history and balance viewing.
+14. `Payments` - transition to the page for tariff payments for trackers/cameras.
+15. `Tariffs` - transition to the list of user's tariffs.
+16. `Feedback` - transition to the feedback form.
+17. `Notifications` - transition to the list of user's notifications.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Top information panel:
+1. Information(email) of the current user.
+2. Dropdown menu for selecting the current platform language.
+3. `Logout` button to log out and return to the login page.
+
+- Main window for working with the platform.
+
+:::tip Administrator
+
+The elements of the navigation and information panels may differ for a user with Administrator rights. See more details in section **Administrator**.
+
+:::
