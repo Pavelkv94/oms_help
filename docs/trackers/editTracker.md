@@ -2,12 +2,13 @@
 sidebar_position: 3
 ---
 
-#  Редактирование трекера
-1. Для редактиования gps-трекера необходимо на странице **Трекеры** нажать на кнопку `Редактировать` у нужного трэкера.
-![](./imgs/tracker-add-button-ru.png)
+# Editing a Tracker
+1. To edit a GPS tracker, you need to click on the `Edit` button next to the desired tracker on the **Trackers** page.
 
-2. После чего появится форма, которую необходимо заполнить:
-![](./imgs/add-tracker-modal-ru.png)
+![](./imgs/edit-tracker-btn-en.png)
 
-3. Нажать кнопку `Создать`. Если данные введены верно, в списке появится созданный трекер.
+2. Then a form with the tracker's data will appear:
 
+![](./imgs/edit-tracker-modal-en.png)
+
+3. After making changes, click the `Edit` button to save them.

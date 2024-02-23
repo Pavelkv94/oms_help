@@ -2,12 +2,11 @@
 sidebar_position: 4
 ---
 
-#  Удаление трекера
-1. Для редактиования gps-трекера необходимо на странице **Трекеры** нажать на кнопку `Редактировать` у нужного трекера.
-![](./imgs/edit-tracker-btn-ru.png)
+# Deleting a Tracker
+1. To delete a GPS tracker, you need to click on the `Delete tracker` button next to the desired tracker on the **Trackers** page.
 
-2. После чего появится форма с данными трекера:
-![](./imgs/edit-tracker-modal-ru.png)
+![](./imgs/edit-tracker-btn-en.png)
 
-3. После внесения изменений нажать кнопку `Редактировать` для их сохранения. 
+2. Then confirm the deletion by clicking the `Ok` button:
 
+![](./imgs/delete-tracker-en.png)

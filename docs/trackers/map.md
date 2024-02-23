@@ -1,15 +1,24 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
 
-# Карта
+# Map
+The map block in the system is designed to track the location of trackers, their movements, and display routes.
+![](./imgs/map-en.png)
 
-**GPS-трекер** (также GPS-контроллер, трекер) — устройство приёма-передачи данных для спутникового контроля автомобилей, людей или других объектов, к которым оно прикрепляется, использующее GPS для точного определения местонахождения объекта.
+The system supports the following maps:
 
-Система  предназначена для контроля за объектами мониторинга, предоставления детальной информации об объектах в режиме реального времени и в режиме работы с историческими данными за указанные периоды, отображения информации об объектах на карте.
-## Интерфейс
-![](./trackers-interface-ru.png)
+- Google Maps;
+- Yandex Maps;
+- OpenStreetMap.
 
-Интерфейс вкладки `Трекеры` представляет собой два визуально разделенных блока, находящихся рядом - это список трекеров пользователя и карта, на которой отображаются активные трекеры.
+You can change the map provider in the top right corner using the dropdown list, or on the **Profile** editing page.
 
-## Карты
+There is also a button on the left side of the map that, when clicked, allows the user to expand the map block.
+
+![](./imgs/expand-map.png)
+
+### Markers
+
+Markers show the current location of GPS trackers on the map.
+![](./imgs/markers.png)
