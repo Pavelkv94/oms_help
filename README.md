@@ -4,14 +4,18 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ### Installation
 
-```
-$ yarn
-```
+npm i
 
 ### Local Development
 
 ```
-$ yarn start
+$ npm run start
+```
+
+start RU locale 
+
+```
+$ npm run start -- --locale ru
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,23 +23,39 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ yarn build
+$ npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+### Support
 
-Using SSH:
+my-website
+├── docs
+│   ├── doc1.md
+│   ├── doc2.md
+│   ├── doc3.md
+│   └── imgs
+├── i18n
+│   └── ru
+│       └── docusaurus-plugin-content-docs
+│           └── current
+│           └── current.json
+├── src
+│   ├── css
+│   │   └── custom.css
+│   └── pages
+│       ├── styles.module.css
+│       └── index.js
+├── static
+│   └── img
+├── docusaurus.config.js
+├── package.json
+├── README.md
+├── sidebars.js
 
-```
-$ USE_SSH=true yarn deploy
-```
+Documentation in English is located at /docs. Images in English located in /imgs folder.
+Documentation in Russian is located at /i18n/ru/docusaurus-plugin-content-docs/current. Images in Russian located in /imgs folder.
+current.json contain translations to Russian common elements.
 
-Not using SSH:
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
