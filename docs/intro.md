@@ -10,7 +10,7 @@ The platform **ZakodixOMS** is a comprehensive platform for video surveillance a
 
 To log into ZakodixOMS, the user needs to authenticate by filling in the fields `Email` and `Password`.
 
-![](./login-en.png)
+![](./imgs/login-en.png)
 
 After filling in all the information, click the `Login` button.
 
@@ -18,7 +18,7 @@ After filling in all the information, click the `Login` button.
 
 To register a new user in the system, click the `Sign Up` button and fill in the necessary fields in the opened form.
 
-![](./regModal-en.png)
+![](./imgs/regModal-en.png)
 
 - The field `Preferred map` is required to select a provider of geographic maps.
 - When changing the field `Individual` to `Legal entity`, additional fields necessary for filling in will appear.
@@ -28,7 +28,7 @@ To register a new user in the system, click the `Sign Up` button and fill in the
 
 To recover the password, click the `Forgot password?` button. In the appeared window, write your email specified during registration.
 
-![](./restorePassModal-en.png)
+![](./imgs/restorePassModal-en.png)
 
 After that, click the `Send link to email` button.
 
@@ -38,7 +38,7 @@ You will receive a link to reset your password by email, after clicking on which
 
 The platform interface consists of several visual blocks:
 
-![](./interface-en.png)
+![](./imgs/interface-en.png)
 
 - Side navigation panel:
 1. `Monitoring objects` - transition to the list of user's monitoring objects.

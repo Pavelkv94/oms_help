@@ -7,7 +7,7 @@ slug: /feedback
 
 This web page provides users with the opportunity to contact us and submit feedback or inquiries directly through a convenient form.
 
-![](./feedback-en.png)
+![](./imgs/feedback-en.png)
 
 **Main Sections:**
 
