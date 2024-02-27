@@ -3,28 +3,45 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.tutor": {
-    "message": "Тутор - Basics",
-    "description": "The label for category tutor in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.trackers": {
+  "sidebar.tutorialSidebar.category.Trackers Management": {
     "message": "Контроль трекеров",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+    "description": "Контроль трекеров"
   },
-  "sidebar.tutorialSidebar.category.trackers.link.generated-index.description": {
-    "message": "Ознакомьтесь с функциональными возможности системы мониторинга платформы ZakodixOMS.",
-    "description": "Ознакомьтесь с функциональными возможности системы мониторинга платформы ZakodixOMS."
+  "sidebar.tutorialSidebar.category.Trackers Management.link.generated-index.description": {
+    "message": "Ознакомьтесь с функциональными возможностями системы мониторинга платформы ZakodixOMS.",
+    "description": "Ознакомьтесь с функциональными возможностями системы мониторинга платформы ZakodixOMS."
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.My Account": {
+    "message": "Мой аккаунт",
+    "description": "Мой аккаунт"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.My Account.link.generated-index.description": {
+    "message": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS.",
+    "description": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS."
   },
-  "sidebar.tutorialSidebar.category.tutor.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category tutor in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Administration panel": {
+    "message": "Панель администратора",
+    "description": "Мой аккаунт"
+  },
+  "sidebar.tutorialSidebar.category.Administration panel.link.generated-index.description": {
+    "message": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS.",
+    "description": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS."
+  },
+  "sidebar.tutorialSidebar.category.Online Cameras": {
+    "message": "Онлайн камеры",
+    "description": "Онлайн камеры"
+  },
+  "sidebar.tutorialSidebar.category.Online Cameras.link.generated-index.description": {
+    "message": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS.",
+    "description": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS."
+  },
+  "sidebar.tutorialSidebar.category.Monitoring Objects": {
+    "message": "Обьекты мониторинга",
+    "description": "Обьекты мониторинга"
+  },
+  "sidebar.tutorialSidebar.category.Monitoring Objects.link.generated-index.description": {
+    "message": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS.",
+    "description": "Ознакомьтесь с функциональными возможностями управления своим аккаунтом на платформе ZakodixOMS."
   }
 }
+

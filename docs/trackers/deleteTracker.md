@@ -10,3 +10,8 @@ sidebar_position: 4
 2. Then confirm the deletion by clicking the `Ok` button:
 
 ![](./imgs/delete-tracker-en.png)
+
+
+:::warning Warning!
+You cannot delete a tracker shared by another user!
+:::
