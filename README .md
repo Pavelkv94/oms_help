@@ -4,9 +4,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ### Installation
 
-```
 npm i
-```
 
 ### Local Development
 
@@ -31,7 +29,7 @@ $ npm run build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Support
-```
+
 my-website
 ├── docs
 │   ├── doc1.md
@@ -55,7 +53,7 @@ my-website
 ├── package.json
 ├── README.md
 ├── sidebars.js
-```
+
 Documentation in English is located at /docs. Images in English located in /imgs folder.
 Documentation in Russian is located at /i18n/ru/docusaurus-plugin-content-docs/current. Images in Russian located in /imgs folder.
 current.json contain translations to Russian common elements.
