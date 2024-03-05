@@ -9,7 +9,7 @@ On the "Tariffs" page, users can familiarize themselves with the available tarif
 
 ![](./imgs/tariffs-tabs-en.png)
 
-Each tab provides information about the available tariffs. Tariffs are set by the [**Administrator**](/category/admin).
+Each tab provides information about the available tariffs. Tariffs are set by the [**Administrator**](/category/administration-panel).
 
 - Interface of the **Tracker Tariffs** tab
 

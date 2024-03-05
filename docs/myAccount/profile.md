@@ -13,7 +13,7 @@ The user can edit the following information:
 - First Name
 - Last Name
 - Email
-- Configure the preferred [map](/en/trackers/map), which will be used to display maps in the [monitoring system](/category/trackers)
+- Configure the preferred [map](/trackers/map), which will be used to display maps in the [monitoring system](/category/trackers-management)
 - Additional information about the user
 - Phone number
 - Postal address

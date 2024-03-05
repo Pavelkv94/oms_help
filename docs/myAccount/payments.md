@@ -36,7 +36,7 @@ Available periods:
 ![](./imgs/camara-payments-en.png)
 
 The user is provided with the following information:
-- `Name` - the name of the device. Clicking on it opens a window with [detailed information about the camera](/cameras/intro).
+- `Name` - the name of the device. Clicking on it opens a window with [detailed information about the camera](/cameras/#detailed-camera-information).
 - `Model` - camera model
 - `IP` - device IP address
 - `Tariff Name` - the name of the previous/current tariff

@@ -14,7 +14,7 @@ This page provides the user with information about the available storages in the
 
 The table provides the following information:
 1. Storage name
-2. Storage type. Learn more about types [here](cameras/storages#data-storage-support-iba-s3-and-aws-s3).
+2. Storage type. Learn more about types [here](/cameras/storages#data-storage-support-iba-s3-and-aws-s3).
 3. Storage URL.
 4. Creation date.
 
@@ -33,7 +33,7 @@ The table provides the following information:
 ![](./imgs/create-storage-aws-en.png)
 
 - Name
-- Storage type - [Aws S3 or Iba S3](cameras/storages#data-storage-support-iba-s3-and-aws-s3)
+- Storage type - [Aws S3 or Iba S3](/cameras/storages#data-storage-support-iba-s3-and-aws-s3)
 - URL
 - Access key
 - Secret access key
