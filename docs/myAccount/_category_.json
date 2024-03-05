@@ -1,0 +1,8 @@
+{
+  "label": "My Account",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Check out the functionality of setting up your account on the ZakodixOMS platform."
+  }
+}

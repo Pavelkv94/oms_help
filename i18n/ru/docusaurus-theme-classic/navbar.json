@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Online Monitoring System Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Online Monitoring System Logo",
+    "description": "The alt text of navbar logo"
+  }
+}

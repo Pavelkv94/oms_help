@@ -1,0 +1,8 @@
+{
+  "label": "cameras",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Ознакомьтесь с функциональными возможностями системы видеонаблюдения платформы ZakodixOMS."
+  }
+}
